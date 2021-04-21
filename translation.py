@@ -46,18 +46,18 @@ Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.</b>"
     SOURCE = """<b>Hi!,</b>
 
-<b>○ My Name : <i>AviAnyDLBot</i></b>
-<b>○ Creator : <a href='https://telegram.dog/Avishkarpatil'>This Person</a></b>
+<b>○ My Name : <i>😎 AviAnyDLBot</i></b>
+<b>○ Creator : <a href='https://telegram.dog/Avishkarpatil'>😘 This Person</a></b>
 <b>○ Credits : @HXBots and others</b>
-<b>○ Also Meet : @ProAviPatil</b>
+<b>○ Also Meet : 😍 @ProAviPatil</b>
 <b>○ GitHub : <a href='https://GitHub.com/avipatilpro'>AviPatilPro</a></b>
-<b>○ My Site : <a href='https://avipatilweb.me'>AviPatilWeb</a></b>
+<b>○ My Site 👉 : <a href='https://avipatilweb.me'>AviPatilWeb</a></b>"""
 
 
 
 
 
-<b>○ Build Status : Beta v1</b>"""
+
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram Media To /rename With Custom Thumbnail Support.</b>"
     AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days."
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS [HH:MM:SS]"""
