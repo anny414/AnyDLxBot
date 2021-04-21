@@ -1,12 +1,14 @@
-## [AnyDLBot](https://telegram.dog/Hx_AnyDLBot)
+<p align="center">
+<h1><a href="https://telegram.me/AviAnyDLbot">😎 Avi AnyDL Bot</a></h1></p>
+
+
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
-## Credits, and Thanks to
+### Thanks to
+• @HexBots
 
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
 ### Installation
 
@@ -62,7 +64,4 @@ generatecustomthumbnail - Generate customer thumbnail
 generatescss - Get Screenshot of Telegram Media
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@HxSupport](https://telegram.dog/HxSupport)
-
-#### LICENSE
-- GPLv3
+- msg me on telegram Telegram.me/Avishkarpatil
