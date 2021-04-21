@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Hi. 🤠 Thank You for using me .\nIm a simple Telegram All-In-One Bot."""
     RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
-    UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend.</b>"
+    UPGRADE_TEXT = "<b>Bete Tune Toh Moj Kar Di Enjoy Free</b>"
     FORMAT_SELECTION = "<b>Select The Desired Format:</b> "
     SET_CUSTOM_USERNAME_PASSWORD = """<b>If You Want To Download Premium Videos, Provide In The Following Format:
 URL | filename | username | password</b>"""
@@ -19,15 +19,15 @@ URL | filename | username | password</b>"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ <b>Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media Cleared Succesfully.</b>"
     SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully.</b>"
-    CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉 @HxBots</b>"
+    CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉 @Avishkarpatil</b>"
     NO_CUSTOM_THUMB_NAIL_FOUND = "<b>No Custom ThumbNail Found.</b>"
-    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/HxSupport"
+    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/Avishkarpatil"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: 75GB Per Month
-Expires on: 10/12/2021
+Plan name: 100+ GB Every Month [ FREE ]
+Expires on: 30/06/2022
 --------"""
     HELP_USER = """<b>There Are Multiple Things I Can Do:</b>\n\n <b>All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html</b>
 
@@ -46,14 +46,17 @@ Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.</b>"
     SOURCE = """<b>Hi!,</b>
 
-<b>○ My Name : <i>Hx AnyDLBot</i></b>
-<b>○ Creator : <a href='https://telegram.dog/Kirodewal'>This Person</a></b>
-<b>○ Credits : Everyone In This Journey</b>
-<b>○ Language : Python 3.9</b>
-<b>○ Library : Pyrogram Asyncio</b>
-<b>○ Cloned From : AnyDLBot [Spechide]</b>
-<b>○ Source Code :  <a href='https://t.me/HxSourceCode/2'>👉 Click Here</a></b>
-<b>○ Server : <a href='aws.amazon.com'>AWS Amazon</a></b>
+<b>○ My Name : <i>AviAnyDLBot</i></b>
+<b>○ Creator : <a href='https://telegram.dog/Avishkarpatil'>This Person</a></b>
+<b>○ Credits : @HXBots and others</b>
+<b>○ Also Meet : @ProAviPatil</b>
+<b>○ GitHub : <a href='https://GitHub.com/avipatilpro'>AviPatilPro</a></b>
+<b>○ My Site : <a href='https://avipatilweb.me'>AviPatilWeb</a></b>
+
+
+
+
+
 <b>○ Build Status : Beta v1</b>"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram Media To /rename With Custom Thumbnail Support.</b>"
     AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days."
